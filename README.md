@@ -21,4 +21,4 @@ Callora is a modern, high-performance video calling and dating application built
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/callora-dating-app.git
+   git clone [https://github.com/sohanurapp-lang/Callora-Dating-Apps]
